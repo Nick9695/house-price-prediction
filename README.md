@@ -10,6 +10,16 @@
 
 This data science project utilizes linear regression to predict house prices based on key characteristics. We explore the Kaggle House Prices Dataset, meticulously cleaning and engineering features to optimize our model's accuracy.
 
+## Table of Contents
+
+1. [Key Features](#keyfeatures)
+2. [Dataset](#dataset)
+3. [Project Structure](#projectstructure)
+4. [Setup](#setup)
+5. [Result](#result)
+6. [Licence](#licence)
+7. [References](#reference)
+
 ## Key Features ✨
 
 - **Comprehensive Data Exploration:** Gain insights through visualizations and statistical analysis.
