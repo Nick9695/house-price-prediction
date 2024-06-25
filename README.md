@@ -1,6 +1,7 @@
 # 🏠 House Price Prediction 📈
 
-![Modern house with a garden](!"https://github.com/Nick9695/house-price-prediction/assets/148968130/b328cf97-22dd-4bb8-9f1b-d07f38a27cd2")
+
+!(https://github.com/Nick9695/house-price-prediction/assets/148968130/485d9213-d3b9-4d5d-979d-793f2562e776)
 
 **Predict real estate values with precision!**
 
